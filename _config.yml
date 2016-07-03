@@ -1,0 +1,59 @@
+# Build settings
+gems:
+  - jemoji
+  - jekyll-paginate
+
+# Site settings
+title: "InternetNZ Issues Team Blog"
+description: > # this means to ignore newlines until "email:"
+   We've been internalizing some really complicated situations in our heads
+
+email: a-mail@mail.mail
+#blog logo
+logo: "/assets/images/inzavatar.png"
+# blog cover
+cover: "/assets/images/woman_at_beach_with_phone_banner.jpg"
+
+name: 'InternetNZ Issues Team!'
+author: 'InternetNZ Issues Team'
+author_image: "/assets/images/inzavatar.png"
+
+paginate:	5
+
+url: "https://internetnz.github.io" # the base hostname & protocol for your site
+baseurl: ""
+#used to display twitter cards
+twitter_handle: '@internetnz'
+
+#fill in disqus shortname to use disqus
+#disqus: disqus-shortname
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/internetnz
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+#  - icon:	facebook
+#    url:	https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: https://www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
+
+#  - icon:	github
+#    url:	https://github.com/dirkfabisch
+#    desc:	Fork me on github
+#    share_url:
+#    share_title:
+#    share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
