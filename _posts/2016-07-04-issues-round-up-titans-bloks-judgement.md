@@ -1,12 +1,10 @@
 ---
+layout: post
 title: "Issues round-up: clash of the titans, building blocks and bad judgement"
-categories:
-  - blog
-tags:
-  - blog
-  - security
-  - access
-  - use
+date: 2016-07-04T14:34:25.000Z
+categories: blog
+tags: featured
+image: /assets/images/man_with_bike.jpg
 ---
 
 # Issues round-up: clash of the titans, building blocks and bad judgement?
