@@ -48,6 +48,8 @@ Where to start with this argument? It's terrifyingly facile and ignores all the 
 
 The non-Internet analogy puts it rather starkly: because your house is connected to a public road, you don't have a right to privacy in your house. Unwarranted search of a property is okay as its technologically easy for someone to walk from the street into your house.
 
-While this IS a US case, it did make me think about the NZ judiciary. To be honest with Judge Harvey leaving the bench to teach at Auckland University, I'm scratching my head to think about who our tech-savvy and tech-literate judges will be.  \* eWeek: [Home Computers Connected to the Internet Aren't Private, Court Rules](http://www.eweek.com/security/home-computers-connected-to-the-internet-arent-private-court-rules.html)
+While this IS a US case, it did make me think about the NZ judiciary. To be honest with Judge Harvey leaving the bench to teach at Auckland University, I'm scratching my head to think about who our tech-savvy and tech-literate judges will be.  
+
+  * eWeek: [Home Computers Connected to the Internet Aren't Private, Court Rules](http://www.eweek.com/security/home-computers-connected-to-the-internet-arent-private-court-rules.html)
 
 As always, let us know if you have feedback, comments, thoughts or feels about these stories or the way we're trying to do things around here…
