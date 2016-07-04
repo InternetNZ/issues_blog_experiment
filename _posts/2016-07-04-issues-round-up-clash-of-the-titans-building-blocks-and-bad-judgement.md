@@ -17,7 +17,8 @@ Before we get cracking into the articles and our goofball takes on them I wanted
 Our recent attempt at this is to use Github. Got a blog post? I have to admit, when we started doing using Github I was rather intimidated. But, it turns out old policy analysts can learn new tricks.
 
 In fact, this blog post was written in markdown (in Atom) loaded onto github and then published  into our Issues team [blog page](https://internetnz.github.io) (hosted by github). THEN I copied the content and moved it over to our website (for now). Basically, as an issues team we are trying to use modern technology and processes to both understand what an open and uncapturable Internet looks like in 2016 and how to live our open Internet values. It feels great to be able to give you a link to the source code for our blogs.  
-  * [The Issues team's blog github repository.](https://github.com/InternetNZ/internetnz.github.io)
+
+* [The Issues team's blog github repository.](https://github.com/InternetNZ/internetnz.github.io)
 
 So anyway, back into the access, use and security stories that have caught our eye over the last week.
 
