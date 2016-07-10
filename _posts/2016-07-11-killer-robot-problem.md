@@ -4,7 +4,7 @@ title: 'We need to talk about your killer robot problem'
 date: 2016-07-11T10:00:00.000Z
 categories: blog
 tags: featured
-image: 'https://c6.staticflickr.com/8/7052/7028274341_e15ec4ab79_b.jpg'
+image: 'http://farm8.staticflickr.com/7052/7028274341_e15ec4ab79_c.jpg'
 ---
 
 
