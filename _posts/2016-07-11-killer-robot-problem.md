@@ -77,3 +77,7 @@ If it was the latter, then in an Asimovian world the robot would refuse, citing 
 It would be very easy to miss the right time to have an informed discussion about how we want to proceed here.
 
 There are interesting articles such as [this one](http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) which we could be talking about.  In the spirit of one of the Issues Team Mantras, we should have this sooner rather than later..."Decide, Don't Slide"
+
+
+
+3 Laws Lego image from [Simon Liu](https://www.flickr.com/photos/si-mocs/sets/72157629386254520/) - used under [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)
