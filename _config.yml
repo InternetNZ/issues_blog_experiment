@@ -57,3 +57,7 @@ social:
 #    share_url:
 #    share_title:
 #    share_link:
+
+future: true
+safe : true
+google_analytics: UA-15154038-5

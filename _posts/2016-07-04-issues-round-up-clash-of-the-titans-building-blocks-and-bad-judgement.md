@@ -16,7 +16,9 @@ Before we get cracking into the articles and our goofball takes on them I wanted
 
 Our recent attempt at this is to use Github. Got a blog post? I have to admit, when we started doing using Github I was rather intimidated. But, it turns out old policy analysts can learn new tricks.
 
-In fact, this blog post was written in markdown (in Atom) loaded onto github and then published  into our Issues team [blog page](https://internetnz.github.io) (hosted by github). THEN I copied the content and moved it over to our website (for now). Basically, as an issues team we are trying to use modern technology and processes to both understand what an open and uncapturable Internet looks like in 2016 and how to live our open Internet values. It feels great to be able to give you a link to the source code for our blogs.  \* [The Issues team's blog github repository.](https://github.com/InternetNZ/internetnz.github.io)
+In fact, this blog post was written in markdown (in Atom) loaded onto github and then published  into our Issues team [blog page](https://internetnz.github.io) (hosted by github). THEN I copied the content and moved it over to our website (for now). Basically, as an issues team we are trying to use modern technology and processes to both understand what an open and uncapturable Internet looks like in 2016 and how to live our open Internet values. It feels great to be able to give you a link to the source code for our blogs.  
+
+* [The Issues team's blog github repository.](https://github.com/InternetNZ/internetnz.github.io)
 
 So anyway, back into the access, use and security stories that have caught our eye over the last week.
 
@@ -46,6 +48,8 @@ Where to start with this argument? It's terrifyingly facile and ignores all the 
 
 The non-Internet analogy puts it rather starkly: because your house is connected to a public road, you don't have a right to privacy in your house. Unwarranted search of a property is okay as its technologically easy for someone to walk from the street into your house.
 
-While this IS a US case, it did make me think about the NZ judiciary. To be honest with Judge Harvey leaving the bench to teach at Auckland University, I'm scratching my head to think about who our tech-savvy and tech-literate judges will be.  \* eWeek: [Home Computers Connected to the Internet Aren't Private, Court Rules](http://www.eweek.com/security/home-computers-connected-to-the-internet-arent-private-court-rules.html)
+While this IS a US case, it did make me think about the NZ judiciary. To be honest with Judge Harvey leaving the bench to teach at Auckland University, I'm scratching my head to think about who our tech-savvy and tech-literate judges will be.  
+
+  * eWeek: [Home Computers Connected to the Internet Aren't Private, Court Rules](http://www.eweek.com/security/home-computers-connected-to-the-internet-arent-private-court-rules.html)
 
 As always, let us know if you have feedback, comments, thoughts or feels about these stories or the way we're trying to do things around here…
