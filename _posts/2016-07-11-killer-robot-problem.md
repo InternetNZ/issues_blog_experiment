@@ -44,7 +44,7 @@ That's ok as long as they are still following the exact instructions of their hu
 *  "Clean the Car" rather than "Pick up sponge.  Wet Sponge.  Wipe car with Sponge."
 *  "Fly over area XX.XXX.XXX, XX.XXX.XXX and take video of any rabbits you see" rather than "Turn left, hold altitude, record video now."
 
-As you can imagine, there's real advantages to being able to task agents with high level directives and allow them to 'fill in the blanks.'  It frees us up to get on with out lives.
+As you can imagine, there's real advantages to being able to task agents with high level directives and allow them to 'fill in the blanks.'  It frees us up to get on with our lives.
 
 The issue here is when the agent 'fills in the blanks' and someone ends up getting hurt. The Tesla crash is a real example - a tragic road death, but in this case with a computer behind the wheel. Fortunately someone's thought about this before.
 
