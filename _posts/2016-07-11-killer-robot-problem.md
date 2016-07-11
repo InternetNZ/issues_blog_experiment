@@ -14,7 +14,7 @@ Over the last few days, the [news](http://arstechnica.com/tech-policy/2016/07/is
 
 We're not seeking to trivialise the complex and traumatic events in and around Dallas, but we believe there are some interesting points about how we interact with robots, and more importantly...how they interact with us.
 
-### Robots as an extension or ourselves
+### Robots as an extension of ourselves
 
 We live in a world where we interact with robots every day.   For example, Lower Hutt Library has a robot that uses the RFID tags in the books to sort them into different piles for re-shelving.
 
