@@ -66,7 +66,7 @@ You can read some more of Asimov's novels to see how this all pans out, or even 
 
 It's still too early to know exactly what happened in Dallas.  Was the robot operating under direct human control? Or was it interpreting higher level directives, for example, "take this package and detonate it within X feet of this person"?
 
-If it was the latter, then in an Asimovian world the robot would refuse, citing an impending breach of the first law of robots.
+If it was the latter, then in an Asimovian world the robot would refuse, citing an impending breach of the first law of robotics.
 
 It would be very easy to miss the right time to have an informed discussion about how we want to proceed here. Whether the specifics of this incident are ever repeated, it’s an obvious trend that robots and AI are going to be more involved in our lives. Working out how we want them to serve us, safely and usefully is, i
 n the spirit of one of the Issues Team Mantras, a conversation we should have sooner rather than later..."Decide, Don't Slide"
