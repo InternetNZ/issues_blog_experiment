@@ -41,8 +41,8 @@ So at some point in the near future, we're going to have robots with AI. At that
 
 That's ok as long as they are still following the exact instructions of their human controllers, but what happens when we ask the robot to start to interpret high and higher level instructions.
 
-.  "Clean the Car" rather than "Pick up sponge.  Wet Sponge.  Wipe car with Sponge."
-.  "Fly over area XX.XXX.XXX, XX.XXX.XXX and take video of any rabbits you see" rather than "Turn left, hold altitude, record video now."
+*  "Clean the Car" rather than "Pick up sponge.  Wet Sponge.  Wipe car with Sponge."
+*  "Fly over area XX.XXX.XXX, XX.XXX.XXX and take video of any rabbits you see" rather than "Turn left, hold altitude, record video now."
 
 As you can imagine, there's real advantages to being able to task agents with high level directives and allow them to 'fill in the blanks.'  It frees us up to get on with out lives.
 
